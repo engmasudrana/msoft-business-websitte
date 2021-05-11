@@ -1,0 +1,64 @@
+.footerBg{
+    background-image: url("../../images/footer-bg.png");
+    margin-top: 7rem;
+    border-top: 1px solid #F0F0F0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.tagTitle{
+    margin-top: 2.4rem;
+    font-size: 14px;
+    color: #484848;
+    line-height: 1.5rem;
+}
+.footerTitle{
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+}
+.footerDes{
+    color: #484848;
+    transition: all 0.5s ease;
+    line-height:  40px;
+    font-size: 14px;
+    margin-left: 0;
+}
+.footerDes:hover{
+    color: #28A745;
+}
+.footerAddress{
+    margin-top: 2.5rem;
+    line-height: 30px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #484848;
+}
+/*-- Footer End --*/
+.endBorder{
+    border-top: 1px solid #F0F0F0;
+}
+.copyrightInfo{
+    font-size: 13px;
+    color: #484848;
+}
+.legal{
+    margin-left: 35rem;
+}
+.legalInfo{
+    font-size: 12px;
+    color: #484848;
+    margin-left: .5rem;
+}
+
+.iconList{
+    margin-left: -9px;
+    cursor: pointer;
+}
+.footerIcon{
+    font-size: 24px;
+    margin: 0px 8px;
+    color: #484848;
+    cursor: pointer;
+    transition: all ease .5s;
+}

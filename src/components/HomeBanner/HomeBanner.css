@@ -1,0 +1,27 @@
+.topFixedBanner{
+    background-image: url("../../images/homeBanner.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.topBannerOverlay{
+    position: absolute;
+    min-height: 500px;
+    width: 100%;
+    background: rgba(0,0,0,0.8);
+}
+.topContent{
+    margin-top: 7rem !important;
+}
+.topTitle{
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 48px;
+}
+.topSubTitle{
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 42px !important;
+}

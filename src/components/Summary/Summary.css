@@ -1,0 +1,13 @@
+.countNumber{
+    font-size: 2rem;
+    font-weight: 600;
+    margin-top: .4rem;
+}
+.countTitle{
+    font-weight: 600;
+    font-size: 1.125rem;
+}
+.summary-icon{
+    font-size: 32px;
+    color: #28A745;
+}

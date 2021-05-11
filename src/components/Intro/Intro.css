@@ -1,0 +1,23 @@
+.intro-bg{
+    background-image: url("https://templatekit.jegtheme.com/cryptiva/wp-content/uploads/sites/53/2021/03/diverse-computer-hacking-shoot-e1615279097528.jpg");
+    min-height: 450px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.introBannerOverlay{
+    position: absolute;
+    min-height: 450px;
+    width: 100%;
+    background: rgba(75, 75, 75 , 0.9);
+}
+.introTopContent{
+    margin-top: 6rem;
+}
+.introTitle{
+    font-family: 'Montserreat',sans-serif;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 48px;
+}
